@@ -1,0 +1,939 @@
+{
+  "reviews": [
+    {
+      "author": "Remafondo",
+      "rating": 5,
+      "title": "Great app",
+      "content": "Keep up the great work",
+      "voteCount": 0,
+      "date": "2026-04-26T06:13:53",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "pinka-92",
+      "rating": 5,
+      "title": "Revolut",
+      "content": "I’m very satisfied with Revolut account",
+      "voteCount": 0,
+      "date": "2026-04-26T05:50:24",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Baderamdeen",
+      "rating": 5,
+      "title": "5",
+      "content": "5",
+      "voteCount": 0,
+      "date": "2026-04-26T05:43:10",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "scab finger",
+      "rating": 5,
+      "title": "Just great",
+      "content": "This banking app is easers to you then others . Being able to invest in the stock market and buy crypto is interesting. But right now that’s something I will not be doing. Having a savings account is my go to for putting a certain amount of money in each month.the only annoying part is all of the top 4 banks give free bank cards. But is 4.99 for delivery which is a con. But all in all I am happy that I have Revolut 🤘",
+      "voteCount": 0,
+      "date": "2026-04-26T05:23:11",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Schusty882022",
+      "rating": 5,
+      "title": "Great",
+      "content": "I’ve been using Revolut for years now and it’s been a really smooth experience. The app is easy to use, with instant notifications and great budgeting tools that help keep track of spending.\n\nTransfers are quick and cheap, especially internationally, and the multi-currency feature is perfect for travel. Security features like card freezing and virtual cards add extra peace of mind.\n\nOverall, a modern, reliable alternative to traditional banking.",
+      "voteCount": 0,
+      "date": "2026-04-26T04:50:45",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Explosionboy-50",
+      "rating": 4,
+      "title": "Banca",
+      "content": "È un’app molto soddisfacente con tante funzionalità",
+      "voteCount": 0,
+      "date": "2026-04-26T04:47:05",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Jedidiahope",
+      "rating": 5,
+      "title": "Ade",
+      "content": "Good banking experience",
+      "voteCount": 0,
+      "date": "2026-04-26T04:24:47",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Simbobbob",
+      "rating": 5,
+      "title": "Best for Travel",
+      "content": "Best travel card/bank I have used, for many years now",
+      "voteCount": 0,
+      "date": "2026-04-26T03:55:34",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "carzy3",
+      "rating": 5,
+      "title": "Exceptional app",
+      "content": "This app is unbelievably good for moving money around between different currencies or getting payments made to yourself from Western countries while you’re abroad, I just wish that people from other countries could as easily pay cash to it for you",
+      "voteCount": 0,
+      "date": "2026-04-26T03:47:37",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "cathy in the wilds",
+      "rating": 5,
+      "title": "Excellent for money transfer",
+      "content": "Joined Revolut 2 months ago& so far have used in Ireland & Italy absolutely without problems - love the daily accounting when using to pay abroad. Works really well especially on public transport in Italy. Super fast transfer between accounts & receiving euros from foreign account too.\nNo faults so far…",
+      "voteCount": 0,
+      "date": "2026-04-26T03:41:36",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Misplaced311",
+      "rating": 5,
+      "title": "Working well",
+      "content": "Working well for me by sending money locally and internationally. Fast, easy and reliable",
+      "voteCount": 0,
+      "date": "2026-04-26T03:40:09",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Annie111#",
+      "rating": 5,
+      "title": "Works well",
+      "content": "Great always good rewards straight forward banking",
+      "voteCount": 0,
+      "date": "2026-04-26T03:05:59",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "lDdddd123344",
+      "rating": 5,
+      "title": "Great app and service",
+      "content": "Intuitive app with great perks - impressive security when I fell for a scam and Revolut was very quick to get my money back!",
+      "voteCount": 0,
+      "date": "2026-04-26T02:49:48",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "flut!!!",
+      "rating": 5,
+      "title": "After 6 years - still the best and keeps improving and innovating",
+      "content": "For more than six years ago I joined Revolut and I wish I started even earlier.",
+      "voteCount": 0,
+      "date": "2026-04-26T02:31:45",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Schlubber1901",
+      "rating": 5,
+      "title": "Good stuff",
+      "content": "Good stuff",
+      "voteCount": 0,
+      "date": "2026-04-26T02:26:34",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Scarerddde",
+      "rating": 5,
+      "title": "Very reliable",
+      "content": "Love everything about it.. it’s simple and easy to use",
+      "voteCount": 0,
+      "date": "2026-04-26T02:19:21",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "AshiftyB",
+      "rating": 5,
+      "title": "Brilliant bank",
+      "content": "Love love love this app, once they introduce saving spaces that incurs interest it will be the complete package",
+      "voteCount": 0,
+      "date": "2026-04-26T02:03:13",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "English rover",
+      "rating": 5,
+      "title": "So easy to manage your money",
+      "content": "Revolut take all the stress out of managing your money and making international transfers. Not only do you get very good rates of exchange you can transfer money between different currencies at the touch of your hand.",
+      "voteCount": 0,
+      "date": "2026-04-26T01:46:37",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Wootty90",
+      "rating": 5,
+      "title": "Awesome",
+      "content": "Easiest online banking",
+      "voteCount": 0,
+      "date": "2026-04-26T01:37:20",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Pratty1974",
+      "rating": 5,
+      "title": "Easy to use",
+      "content": "Very easy to use, make payments and transfer money.",
+      "voteCount": 0,
+      "date": "2026-04-26T01:35:30",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Harjete",
+      "rating": 5,
+      "title": "The best!",
+      "content": "Everything what you really need,transparency,serious and real.I love Revolut",
+      "voteCount": 0,
+      "date": "2026-04-26T01:11:08",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Starwaks",
+      "rating": 5,
+      "title": "Mr",
+      "content": "Good",
+      "voteCount": 0,
+      "date": "2026-04-26T00:30:13",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Чочев",
+      "rating": 5,
+      "title": "Много",
+      "content": "Добре",
+      "voteCount": 0,
+      "date": "2026-04-25T23:54:42",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "bigJ21",
+      "rating": 5,
+      "title": "Very Good Mobile Finance",
+      "content": "I am so pleased with the results and the way function",
+      "voteCount": 0,
+      "date": "2026-04-25T23:45:58",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Nick5070",
+      "rating": 5,
+      "title": "Highly recommend",
+      "content": "Revolut is so easy to use, i originally got the app as an additional card for holidays or one off payment, but now using it all the time.",
+      "voteCount": 0,
+      "date": "2026-04-25T23:28:34",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Hannsshaun",
+      "rating": 3,
+      "title": "Hanns",
+      "content": "Good",
+      "voteCount": 0,
+      "date": "2026-04-25T20:06:55",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "author": "London Pork Chop",
+      "rating": 5,
+      "title": "Does what you want it to do with minimum fuss.",
+      "content": "It’s easy, it’s efficient and it works.",
+      "voteCount": 0,
+      "date": "2026-04-25T18:45:32",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Squashedmosher",
+      "rating": 5,
+      "title": "best financial aid, travelling tool and bank youll find!",
+      "content": "11/10. you wont be revolut! your only problem is not having it sooner",
+      "voteCount": 0,
+      "date": "2026-04-25T18:24:45",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Jithinkichu",
+      "rating": 5,
+      "title": "User friendly",
+      "content": "I’m happy to use and easily transfer money",
+      "voteCount": 0,
+      "date": "2026-04-25T16:50:21",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Abba Alhaji",
+      "rating": 5,
+      "title": "Exceptional service",
+      "content": "We need an overdraft Please",
+      "voteCount": 0,
+      "date": "2026-04-25T16:18:39",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Kevin02logan",
+      "rating": 5,
+      "title": "Great app",
+      "content": "The banking is fantastic and is especially great for travelling and exchanging your money into different currencies",
+      "voteCount": 0,
+      "date": "2026-04-25T15:57:09",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "nick.prn",
+      "rating": 5,
+      "title": "SUPERB!",
+      "content": "This bank works so well overseas!",
+      "voteCount": 0,
+      "date": "2026-04-25T15:20:52",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "manfrmlondon",
+      "rating": 5,
+      "title": "Best bank ever",
+      "content": "It has been a life changing experience with three payment cards, one routine, one ecard and one off cards, able to invest in stock and crypto effortlessly and card works everywhere I have travelled; international money transfer almost instant, \n\nThe best banking experience",
+      "voteCount": 0,
+      "date": "2026-04-25T15:03:17",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Blogoner",
+      "rating": 5,
+      "title": "Great",
+      "content": "Great",
+      "voteCount": 0,
+      "date": "2026-04-25T14:39:00",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Lizzytaste",
+      "rating": 4,
+      "title": "Lizzy",
+      "content": "Great 👍👍💯",
+      "voteCount": 0,
+      "date": "2026-04-25T14:38:56",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Dammy (DS).",
+      "rating": 5,
+      "title": "Mr Ade Sanni",
+      "content": "Excellent service",
+      "voteCount": 0,
+      "date": "2026-04-25T14:35:02",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "JuliesG27",
+      "rating": 5,
+      "title": "Love Revolut",
+      "content": "Fantastic service",
+      "voteCount": 0,
+      "date": "2026-04-25T14:27:06",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Leo. C",
+      "rating": 5,
+      "title": "Mr Leonard",
+      "content": "Great exchange rates ! Fast payments ! I can recommend definitely. Thank you Revolut !",
+      "voteCount": 0,
+      "date": "2026-04-25T14:21:26",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Oli H 14",
+      "rating": 5,
+      "title": "Class app",
+      "content": "Miles above the rest!",
+      "voteCount": 0,
+      "date": "2026-04-25T14:18:07",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "vladivili",
+      "rating": 5,
+      "title": "App",
+      "content": "Very nice",
+      "voteCount": 0,
+      "date": "2026-04-25T14:14:55",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Albert Cheesenstein",
+      "rating": 5,
+      "title": "Quality Money Management",
+      "content": "Seamless transactions coupled with a crypto wallet !\nWhat’s not to like ?",
+      "voteCount": 0,
+      "date": "2026-04-25T14:05:54",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Team JMGlasgow",
+      "rating": 5,
+      "title": "Seamless",
+      "content": "Works brilliantly particularly when travelling",
+      "voteCount": 0,
+      "date": "2026-04-25T13:40:18",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "peera56",
+      "rating": 5,
+      "title": "Mrs",
+      "content": "Excellent",
+      "voteCount": 0,
+      "date": "2026-04-25T13:25:38",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Nanoutha",
+      "rating": 5,
+      "title": "Great service",
+      "content": "Great customer service, easy to use the app for transfers and payment. I love Revolut is like having freedom in your pocket. Thank you",
+      "voteCount": 0,
+      "date": "2026-04-25T13:16:45",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "llccb",
+      "rating": 5,
+      "title": "Great",
+      "content": "Bank great, app great card great!! i love it",
+      "voteCount": 0,
+      "date": "2026-04-25T13:03:06",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Sujin Mathew",
+      "rating": 4,
+      "title": "Mr",
+      "content": "Good",
+      "voteCount": 0,
+      "date": "2026-04-25T12:58:17",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "NAonlye",
+      "rating": 5,
+      "title": "Best bank⭐️⭐️⭐️⭐️⭐️",
+      "content": "Everything is easy and the best part is how easy to orgnise everything!",
+      "voteCount": 0,
+      "date": "2026-04-25T12:47:31",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Lawlor M",
+      "rating": 5,
+      "title": "Fantastic",
+      "content": "The Revolut App and Service is just fantastic, from ease of app navigation, management of funds and international currency changes.\nI have the metal plan, which works just fine for me and my needs.",
+      "voteCount": 0,
+      "date": "2026-04-25T12:43:05",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "fahad nari",
+      "rating": 5,
+      "title": "Good Banking app",
+      "content": "UX is better than Monzo would be great if they offered credit cards and loans like Monzo",
+      "voteCount": 0,
+      "date": "2026-04-25T12:06:47",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "taej248",
+      "rating": 5,
+      "title": "Best app since 2015",
+      "content": "Best app since 2015 great app I recommend everyone to use this amazing bank",
+      "voteCount": 0,
+      "date": "2026-04-25T11:43:06",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "garythcan",
+      "rating": 5,
+      "title": "Mr Burns",
+      "content": "Love this bank very good an fast transactions with ease , but you could still give me a loan of £1,500 so I can get a mobility scooter as I have mobility issues and need one for getting out and about, please help me out with this matter",
+      "voteCount": 0,
+      "date": "2026-04-25T11:16:28",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "_.Mcross._",
+      "rating": 5,
+      "title": "Review",
+      "content": "Very good easy to use and very helpful information for someone that is new to saving and investing",
+      "voteCount": 0,
+      "date": "2026-04-25T11:05:40",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Molly don’t",
+      "rating": 5,
+      "title": "Best way of banking",
+      "content": "Absolutely love revolut easy to use and always someone to talk to if needed.",
+      "voteCount": 0,
+      "date": "2026-04-25T11:00:28",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Davidlogeybear",
+      "rating": 5,
+      "title": "Logey",
+      "content": "Excellent",
+      "voteCount": 0,
+      "date": "2026-04-25T10:58:18",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "booga booga im the boogy man",
+      "rating": 5,
+      "title": "Very nice",
+      "content": "Very nice very",
+      "voteCount": 0,
+      "date": "2026-04-25T10:45:34",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Marcin Harlow",
+      "rating": 5,
+      "title": "Nic dodać nic ująć",
+      "content": "Wszystko jest transparentne i bez żadnych problemów dostępne nie miałem nigdy żadnych problemów i bardzo podobają mi się zabezpieczenia odnośnie płatności \nJak dla mnie rewelacja A+",
+      "voteCount": 0,
+      "date": "2026-04-25T10:36:28",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "At cos x",
+      "rating": 5,
+      "title": "Very good",
+      "content": "Top bank",
+      "voteCount": 0,
+      "date": "2026-04-25T10:28:06",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "12jaytee9829",
+      "rating": 5,
+      "title": "👌🏽",
+      "content": "The best",
+      "voteCount": 0,
+      "date": "2026-04-25T10:25:56",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Dylan12457",
+      "rating": 5,
+      "title": "Dylan",
+      "content": "Good",
+      "voteCount": 0,
+      "date": "2026-04-25T10:22:12",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Bradsmum2005",
+      "rating": 5,
+      "title": "Easy to Use",
+      "content": "Love this app and how easy it is to use and how it works with daily life",
+      "voteCount": 0,
+      "date": "2026-04-25T10:21:44",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Good to review",
+      "rating": 5,
+      "title": "Good",
+      "content": "Very professional",
+      "voteCount": 0,
+      "date": "2026-04-25T09:56:47",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Isadorraavlive",
+      "rating": 5,
+      "title": "I would never change REVOLUT IS MY BANK FOREVER",
+      "content": "If you’re still relying on traditional banks, it might be time to seriously reconsider. I’ve used Revolut across Personal, Pro, and Ultra accounts, and I’m even opening my business account with them—and the difference is on another level.\nWhat convinced me the most is the security and control. With Revolut, I actually feel like my money is protected. Everything is instant, transparent, and managed from the app. Features like real-time notifications, card controls, and advanced security give a level of confidence I never had with older banks.\nOn top of that, the flexibility is unmatched. Whether you’re managing daily spending, running side income through Pro, or preparing for a full business account, everything connects seamlessly. No delays, no unnecessary complications—just a system that works.\nTraditional banks often feel outdated, slow, and reactive. Revolut feels modern, fast, and built around the user. I haven’t had a single issue, and that consistency is exactly why I trust them with all my finances.\nFor anyone thinking about switching: it’s absolutely worth it. Once you experience the speed, security, and convenience, it’s very hard to go back.",
+      "voteCount": 0,
+      "date": "2026-04-25T09:49:27",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Seathybhoy",
+      "rating": 5,
+      "title": "Best bank",
+      "content": "Best banking app for everyday use easy too set up for Apple Pay too witch is ideal",
+      "voteCount": 0,
+      "date": "2026-04-25T09:31:56",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "NIKOLAY FILIPOV",
+      "rating": 5,
+      "title": "Mr",
+      "content": "Amazing",
+      "voteCount": 0,
+      "date": "2026-04-25T09:22:53",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Notjustatalkinghorse",
+      "rating": 5,
+      "title": "Edd",
+      "content": "It’s decent",
+      "voteCount": 0,
+      "date": "2026-04-25T08:33:34",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "chefgeorge 79",
+      "rating": 4,
+      "title": "Mr George Baylis",
+      "content": "A very food bank, app features can be a little confusing but when you get how it works it’s great.",
+      "voteCount": 0,
+      "date": "2026-04-25T07:48:31",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Mzs1980",
+      "rating": 5,
+      "title": "awesome",
+      "content": "go for it",
+      "voteCount": 0,
+      "date": "2026-04-25T07:34:00",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Lanes K",
+      "rating": 5,
+      "title": "Has everything thing in this app",
+      "content": "From banking to shares and discounts",
+      "voteCount": 0,
+      "date": "2026-04-25T07:20:59",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "elyoboy",
+      "rating": 5,
+      "title": "The best bank ever",
+      "content": "Revolut is the best ever bank and very easy app  I LOVE REVOLUT❤️❤️❤️❤️❤️",
+      "voteCount": 0,
+      "date": "2026-04-25T07:19:04",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "brechinbhoy1",
+      "rating": 5,
+      "title": "Great",
+      "content": "Very easy website and app to use very happy with my move",
+      "voteCount": 0,
+      "date": "2026-04-25T07:07:05",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Howie Gooner",
+      "rating": 5,
+      "title": "Revolut",
+      "content": "Brilliant",
+      "voteCount": 0,
+      "date": "2026-04-25T07:01:52",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Sunshine1sunshine1",
+      "rating": 5,
+      "title": "Rating5",
+      "content": "Excellent service",
+      "voteCount": 0,
+      "date": "2026-04-25T06:54:44",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "AntMcfc",
+      "rating": 5,
+      "title": "Great bank, great features",
+      "content": "Everything working perfectly since I signed up. It was free, there’s loads of features, good product that I can enjoy without stress. Five star x",
+      "voteCount": 0,
+      "date": "2026-04-25T06:11:25",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "WozaUK70",
+      "rating": 5,
+      "title": "Great App",
+      "content": "Initially I used this bank account for currency exchange whilst working between Europe and UK. Now it’s my full time account. Wouldn’t be without it.",
+      "voteCount": 0,
+      "date": "2026-04-25T06:07:03",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Libyan man",
+      "rating": 5,
+      "title": "Best bank",
+      "content": "The best bank ever",
+      "voteCount": 0,
+      "date": "2026-04-25T05:52:28",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Rana_Siraj",
+      "rating": 5,
+      "title": "Amazing Aop",
+      "content": "This App is working great",
+      "voteCount": 0,
+      "date": "2026-04-25T05:44:35",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "ghssooo",
+      "rating": 5,
+      "title": "MR Kaleem",
+      "content": "Excellent banking service",
+      "voteCount": 0,
+      "date": "2026-04-25T05:01:20",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "~~~~_????_!!!!!",
+      "rating": 5,
+      "title": "10/10",
+      "content": "Fantastic app  completely secure , I havent come across any issues using it",
+      "voteCount": 0,
+      "date": "2026-04-25T04:36:37",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "ipswich Kent",
+      "rating": 5,
+      "title": "Very happy",
+      "content": "I am very happy with the service Revolut offer me. I have just join Ultra membership and looking forward to using the services offered with this membership.",
+      "voteCount": 0,
+      "date": "2026-04-25T04:31:52",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Nikkib44@",
+      "rating": 5,
+      "title": "Amazing",
+      "content": "I have used Revolut past couple years never had any issues very easy to use, even the kids with their under 18 love it and free of charge bargin ! Thank you",
+      "voteCount": 0,
+      "date": "2026-04-25T04:31:30",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Bexanator",
+      "rating": 5,
+      "title": "Miss",
+      "content": "Love it",
+      "voteCount": 0,
+      "date": "2026-04-25T04:29:14",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Zasmal1975",
+      "rating": 5,
+      "title": "Fast and efficient",
+      "content": "This is an excellent online bank the speed and efficiency is exceptional and so easy to use.",
+      "voteCount": 0,
+      "date": "2026-04-25T04:26:32",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "21tash",
+      "rating": 5,
+      "title": "Revolut",
+      "content": "10/10 one of the best bank I’ve used",
+      "voteCount": 0,
+      "date": "2026-04-25T04:26:02",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "deeznutsarejuicy420",
+      "rating": 4,
+      "title": "Transaction",
+      "content": "Is good",
+      "voteCount": 0,
+      "date": "2026-04-25T04:10:30",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Yn15 vgv",
+      "rating": 5,
+      "title": "Well done",
+      "content": "Very good operation",
+      "voteCount": 0,
+      "date": "2026-04-25T03:55:55",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "loulou73-",
+      "rating": 5,
+      "title": "Fantastic !!",
+      "content": "Absolutely Love this bank !!",
+      "voteCount": 0,
+      "date": "2026-04-25T03:24:57",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "UcheOmaa",
+      "rating": 4,
+      "title": "Benny",
+      "content": "Has been awesome",
+      "voteCount": 0,
+      "date": "2026-04-25T03:19:23",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Waura1",
+      "rating": 5,
+      "title": "Great",
+      "content": "I have had a great time using Revolut, it is really easy to send and receive money. It also has additional futures that no other bank has and I love it",
+      "voteCount": 0,
+      "date": "2026-04-25T03:09:11",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "qmzptviw",
+      "rating": 5,
+      "title": "Instant banking",
+      "content": "Everything you need from your bank.  Security, Instant transfers. Very happy with Revolut",
+      "voteCount": 0,
+      "date": "2026-04-25T03:08:46",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "FifePar",
+      "rating": 5,
+      "title": "Fantastic",
+      "content": "Revolut is an absolute must have. Not only is it great for use in the UK but it’s amazing for use abroad.",
+      "voteCount": 0,
+      "date": "2026-04-25T02:58:09",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Ady cooper",
+      "rating": 5,
+      "title": "Amazing account",
+      "content": "Bloody brilliant- So easy",
+      "voteCount": 0,
+      "date": "2026-04-25T02:58:09",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "SEHAYALEM",
+      "rating": 5,
+      "title": "Very useful",
+      "content": "Great.  Very good.",
+      "voteCount": 0,
+      "date": "2026-04-25T02:41:35",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Liqhwa",
+      "rating": 5,
+      "title": "Love it",
+      "content": "Easy to set up and use",
+      "voteCount": 0,
+      "date": "2026-04-25T02:33:23",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "French Maggie",
+      "rating": 5,
+      "title": "Pensioner",
+      "content": "Revolut means I can manage dual country finances very simply and easily.   I love it zxx",
+      "voteCount": 0,
+      "date": "2026-04-25T02:31:48",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Hafiz Hamad Rafi",
+      "rating": 5,
+      "title": "Service",
+      "content": "Best and outstanding service never disappoints me. Loved this",
+      "voteCount": 0,
+      "date": "2026-04-25T02:23:38",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "john boy 007",
+      "rating": 5,
+      "title": "rob",
+      "content": "great service executive",
+      "voteCount": 0,
+      "date": "2026-04-25T02:18:30",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Ariel hexen",
+      "rating": 5,
+      "title": "Works well",
+      "content": "I like it, it makes easy to manage my money and make transfers to everyone I need to transfer",
+      "voteCount": 0,
+      "date": "2026-04-25T01:51:24",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Big Rob 47",
+      "rating": 5,
+      "title": "Great bank",
+      "content": "Never had an issue with them and the extra features that they offer with accounts makes life so much simpler",
+      "voteCount": 0,
+      "date": "2026-04-25T01:34:39",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Kisletus",
+      "rating": 5,
+      "title": "Mrs Enyi",
+      "content": "Wonderful experience",
+      "voteCount": 0,
+      "date": "2026-04-25T01:19:25",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Dawood Javed",
+      "rating": 5,
+      "title": "Good service",
+      "content": "5",
+      "voteCount": 0,
+      "date": "2026-04-25T01:11:33",
+      "sentiment": "POSITIVE"
+    }
+  ],
+  "totalReviews": 100,
+  "positive": 99,
+  "negative": 0,
+  "neutral": 1,
+  "insights": {
+    "summary": "Most users report a smooth and positive experience with the app. The main issues mentioned relate to limited customer support accessibility, card delivery fees, and lack of certain features such as overdrafts and loans.",
+    "topProblems": [
+      {
+        "count": 3,
+        "examples": [
+          "difficult to find help or talk to a person",
+          "hard to get support",
+          "no direct customer interaction easily available"
+        ],
+        "name": "Customer support difficulties"
+      },
+      {
+        "count": 2,
+        "examples": [
+          "£4.99 delivery fee for bank cards",
+          "free bank cards from competitors but not here"
+        ],
+        "name": "Card delivery fees"
+      },
+      {
+        "count": 3,
+        "examples": [
+          "no overdraft available",
+          "no loans offered yet",
+          "lack of credit cards and loans like competitors"
+        ],
+        "name": "Missing financial features"
+      }
+    ]
+  }
+}

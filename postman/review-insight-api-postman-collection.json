@@ -1,0 +1,129 @@
+{
+  "info": {
+    "_postman_id": "27495251-a636-4d9e-b983-a1c107be0958",
+    "name": "review-insight-api",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "52499683",
+    "_collection_link": "https://go.postman.co/collection/52499683-27495251-a636-4d9e-b983-a1c107be0958?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "apple",
+      "item": [
+        {
+          "name": "/customerreviews - Zopa",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "https://itunes.apple.com/gb/rss/customerreviews/page=2/id=1324011914/sortBy=mostRecent/json",
+              "protocol": "https",
+              "host": [
+                "itunes",
+                "apple",
+                "com"
+              ],
+              "path": [
+                "gb",
+                "rss",
+                "customerreviews",
+                "page=2",
+                "id=1324011914",
+                "sortBy=mostRecent",
+                "json"
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "/reviews/ingest - Zopa",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"appId\": \"1324011914\",\n  \"country\": \"gb\",\n  \"pages\": 2\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://localhost:8080/reviews/ingest",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8080",
+          "path": [
+            "reviews",
+            "ingest"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "/reviews/ingest - Monzo",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"appId\": \"1052238659\",\n  \"country\": \"gb\",\n  \"pages\": 2\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://localhost:8080/reviews/ingest",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8080",
+          "path": [
+            "reviews",
+            "ingest"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "/reviews/ingest - Revolut",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"appId\": \"932493382\",\n  \"country\": \"gb\",\n  \"pages\": 2\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://localhost:8080/reviews/ingest",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8080",
+          "path": [
+            "reviews",
+            "ingest"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}

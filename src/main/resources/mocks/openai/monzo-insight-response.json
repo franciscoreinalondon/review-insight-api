@@ -1,0 +1,32 @@
+{
+  "summary": "Users frequently report issues related to account closures and blocking access to funds, poor customer support especially in fraud cases, and app performance problems including crashes and sluggishness.",
+  "topProblems": [
+    {
+      "count": 7,
+      "examples": [
+        "account was closed and blocked without reason",
+        "blocked payments causing late bills and charges",
+        "accounts frozen without reason leaving no access to money"
+      ],
+      "name": "Account closures and blocked access"
+    },
+    {
+      "count": 6,
+      "examples": [
+        "won't help with fraud or refund losses",
+        "customer service rude and unhelpful",
+        "support not responding to login or issue reports"
+      ],
+      "name": "Poor customer support and fraud handling"
+    },
+    {
+      "count": 5,
+      "examples": [
+        "app keeps freezing and crashing",
+        "sluggish app taking multiple taps to respond",
+        "everything takes 10+ seconds to load"
+      ],
+      "name": "App performance issues"
+    }
+  ]
+}

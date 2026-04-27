@@ -1,3 +1,21 @@
 spring:
   application:
     name: review-insight-api
+
+openai:
+  api-key: ${OPENAI_API_KEY}
+
+mocks:
+  apple:
+    enabled: true
+    reviews:
+      1324011914: mocks/apple/zopa-reviews.json
+      1052238659: mocks/apple/monzo-reviews.json
+      932493382: mocks/apple/revolut-reviews.json
+
+  openai:
+    enabled: true
+    insights:
+      1324011914: mocks/openai/zopa-insight-response.json
+      1052238659: mocks/openai/monzo-insight-response.json
+      932493382: mocks/openai/revolut-insight-response.json

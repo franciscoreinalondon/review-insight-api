@@ -1,0 +1,31 @@
+{
+  "summary": "Most users report a smooth and positive experience with the app. The main issues mentioned relate to limited customer support accessibility, card delivery fees, and lack of certain features such as overdrafts and loans.",
+  "topProblems": [
+    {
+      "count": 3,
+      "examples": [
+        "difficult to find help or talk to a person",
+        "hard to get support",
+        "no direct customer interaction easily available"
+      ],
+      "name": "Customer support difficulties"
+    },
+    {
+      "count": 2,
+      "examples": [
+        "£4.99 delivery fee for bank cards",
+        "free bank cards from competitors but not here"
+      ],
+      "name": "Card delivery fees"
+    },
+    {
+      "count": 3,
+      "examples": [
+        "no overdraft available",
+        "no loans offered yet",
+        "lack of credit cards and loans like competitors"
+      ],
+      "name": "Missing financial features"
+    }
+  ]
+}

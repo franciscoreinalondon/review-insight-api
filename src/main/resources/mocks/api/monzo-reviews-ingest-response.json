@@ -1,0 +1,940 @@
+{
+  "reviews": [
+    {
+      "author": "Charlie’s head",
+      "rating": 5,
+      "title": "Mrs",
+      "content": "Great Bank",
+      "voteCount": 0,
+      "date": "2026-04-26T02:15:14",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Miss._.Popo💋",
+      "rating": 5,
+      "title": "Amazing 🌟",
+      "content": "The best bank EVER!",
+      "voteCount": 0,
+      "date": "2026-04-26T01:42:52",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "ScouseL",
+      "rating": 5,
+      "title": "CEO",
+      "content": "I’m a hostage",
+      "voteCount": 0,
+      "date": "2026-04-24T21:21:32",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Mr South Music",
+      "rating": 5,
+      "title": "Amazing",
+      "content": "Loving Monzo Love the way I can see what’s going on :) X",
+      "voteCount": 0,
+      "date": "2026-04-24T10:49:42",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Vlado&97",
+      "rating": 5,
+      "title": "Super",
+      "content": "Super de utilizat",
+      "voteCount": 0,
+      "date": "2026-04-24T09:51:44",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Lauradavies85",
+      "rating": 5,
+      "title": "Easy banking",
+      "content": "Excellent bank made for the user not the bank",
+      "voteCount": 0,
+      "date": "2026-04-24T08:39:58",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Manglez96",
+      "rating": 5,
+      "title": "Literally the best",
+      "content": "Perfect and has literally helped me save money AND get out of debt. Can't thank this bank enough for how reliable and fast it is. One tiny question, would you guys re-add IOS15 support? 👉👈",
+      "voteCount": 0,
+      "date": "2026-04-24T02:27:44",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "WWOOWW112233",
+      "rating": 5,
+      "title": "👍",
+      "content": "I’m really happy with the service",
+      "voteCount": 0,
+      "date": "2026-04-23T14:59:18",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "R Khan123",
+      "rating": 5,
+      "title": "R K",
+      "content": "Great",
+      "voteCount": 0,
+      "date": "2026-04-23T14:21:07",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "RDepine",
+      "rating": 1,
+      "title": "Mr Depine",
+      "content": "The only bank not refund a fraud report from  Brazil connection Uk mr",
+      "voteCount": 0,
+      "date": "2026-04-23T12:02:36",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "Connor1810",
+      "rating": 5,
+      "title": "5 Star Indeed",
+      "content": "No problems ever!! Love Monzo, user friendly and no nonsense approach!",
+      "voteCount": 0,
+      "date": "2026-04-23T10:36:59",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Ad4mGee",
+      "rating": 5,
+      "title": "Great",
+      "content": "Great",
+      "voteCount": 0,
+      "date": "2026-04-23T10:27:30",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Delaat",
+      "rating": 5,
+      "title": "Excellent",
+      "content": "Amazing bank and so easy to use.",
+      "voteCount": 0,
+      "date": "2026-04-23T09:52:49",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "mrselef",
+      "rating": 5,
+      "title": "Great",
+      "content": "Love it so much. So easy to budget, move money, save, pay - even abroad.",
+      "voteCount": 0,
+      "date": "2026-04-23T09:40:39",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Millers Kev Jen",
+      "rating": 5,
+      "title": "Love Monzo",
+      "content": "Can’t get better greet bank",
+      "voteCount": 0,
+      "date": "2026-04-23T09:35:04",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Cms-95",
+      "rating": 5,
+      "title": "Love this bank",
+      "content": "Love this bank",
+      "voteCount": 0,
+      "date": "2026-04-23T09:29:59",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Evanjii",
+      "rating": 5,
+      "title": "Love monzo, so many things to do!",
+      "content": "I appreciate the saving challenge and prizes they're willing to give",
+      "voteCount": 0,
+      "date": "2026-04-23T08:03:55",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Weather Dorset",
+      "rating": 5,
+      "title": "Easy to use",
+      "content": "So easy to spend abroad & share costs evenly with contacts.",
+      "voteCount": 0,
+      "date": "2026-04-23T05:52:03",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "A!A!a!a",
+      "rating": 3,
+      "title": "A few important ideas",
+      "content": "Hello ,\nPlease review these important issues !\nCan’t you put the interest up a bit for the  kids account ! \nThe app is pretty great but just low interest and not enough updates overall pretty good",
+      "voteCount": 0,
+      "date": "2026-04-22T14:31:09",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "author": "Clemie666",
+      "rating": 5,
+      "title": "Best",
+      "content": "I literally use only Monzo , love it so muchhhh",
+      "voteCount": 0,
+      "date": "2026-04-22T10:01:50",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Ned Tallywhacker",
+      "rating": 5,
+      "title": "Love it",
+      "content": "I was very against joining a bank like Monzo but since I did last month I’ve been very impressed",
+      "voteCount": 0,
+      "date": "2026-04-22T08:47:44",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "christofac",
+      "rating": 1,
+      "title": "Awful bank",
+      "content": "Monzo is suppose to be better than other banks but it’s worse! They sell this story but are awful! Monzo is rubbish anytime you try and use your own money you block payments so we can’t pay bills. Bills get paid late and we incur charges. You’ve already cost us over £1,000 and your reporting system is useless! Their app blocks payments all the time and can take sometimes weeks to use your own money. Their appeal and after customer service is awful too.",
+      "voteCount": 0,
+      "date": "2026-04-22T00:07:01",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "Rich’s teddy bear",
+      "rating": 5,
+      "title": "Monzo",
+      "content": "Best bank ever highly recommend",
+      "voteCount": 0,
+      "date": "2026-04-21T09:56:35",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "MattRich16",
+      "rating": 5,
+      "title": "Great bank, great app",
+      "content": "I have nothing but praise for Monzo. Their app is great for both business and personal banking. Their support is available whenever you need them, and their responses are always clear",
+      "voteCount": 0,
+      "date": "2026-04-21T09:27:13",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "jess58?",
+      "rating": 5,
+      "title": "Best bank",
+      "content": "Absolutely love Monzo, can't recommend it enough",
+      "voteCount": 0,
+      "date": "2026-04-21T08:26:45",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "scoobiesnoop",
+      "rating": 5,
+      "title": "Easy banking done right",
+      "content": "Monzo is quite possibly the best bank I’ve used. There’s no complicated systems in place, you can access you money instantly, pay bills via DD’s, set up “pots” so you can separate money for certain things, which is super handy. It’s online which means you can literally do every thing on your phone for added ease and you money is protected with the usual insurances you’d expect from any major bank. I can’t recommend Monzo enough.",
+      "voteCount": 1,
+      "date": "2026-04-21T08:11:59",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Hiitsmelp",
+      "rating": 1,
+      "title": "DONT USE THIS BANK",
+      "content": "Will not help u with fraud like a normal bank do not trust monzo at all use a proper bank. I have lost money to fraud and they won’t help me a normal bank for example my other bank NatWest has always helped me in the past its a disgusting company using ur information and selling it.",
+      "voteCount": 0,
+      "date": "2026-04-21T05:25:33",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "northupyou",
+      "rating": 5,
+      "title": "Mr. Mavi",
+      "content": "Perfect UI. Always works as it should be.",
+      "voteCount": 0,
+      "date": "2026-04-20T09:22:54",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "SueT1959",
+      "rating": 5,
+      "title": "On line banking",
+      "content": "Easy to use and follow money transactions",
+      "voteCount": 0,
+      "date": "2026-04-20T08:31:45",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "lordkovalchuk",
+      "rating": 5,
+      "title": "BEST BANK IN UK",
+      "content": "It’s the best bank in UK. ALSOLUTELY FANTASTIC AND FIRST OF ALL FAST AND EASY. Fast and easy are qualities not heard or seen in other UK banks. Also the support is very human and understanding. Had a problem with a fraud transaction once and it literally took one second to get it approved. While on other banks it would take a lot of time and I would have to provide piles of documents and proof. Also creating pots and different card connected to them is absolutely top feature. Where you can create separate pots for different spending purposes . Very good for tracking money",
+      "voteCount": 0,
+      "date": "2026-04-20T02:11:19",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "chrisk3pt",
+      "rating": 1,
+      "title": "Keeps crashing",
+      "content": "App was working fine since update keeps freezing and crashing 😳",
+      "voteCount": 0,
+      "date": "2026-04-20T00:54:14",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "HS9661",
+      "rating": 1,
+      "title": "Closed my account for no reason",
+      "content": "I’ve had a monzo account for years and just one day they decided to close my account and block my number. Tried calling them from another number and got rude service in response. Failed their “security check” even though I gave the right details…",
+      "voteCount": 0,
+      "date": "2026-04-19T17:20:49",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "ReinisMusa",
+      "rating": 5,
+      "title": "Review",
+      "content": "Best bank",
+      "voteCount": 0,
+      "date": "2026-04-18T02:57:10",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "23ian23",
+      "rating": 5,
+      "title": "Life changing bank",
+      "content": "Hands down the best bank I have ever used, literally changed my financial life",
+      "voteCount": 0,
+      "date": "2026-04-17T08:19:34",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "01 Ace",
+      "rating": 5,
+      "title": "Great",
+      "content": "💯",
+      "voteCount": 0,
+      "date": "2026-04-17T08:15:23",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Hqhaoqnsabuxoqb",
+      "rating": 1,
+      "title": "Over the top security and data collection",
+      "content": "The amount of information they need to open a new business account is mad. Am I a politician, person opening the account’s employment history. Then it takes 3 days to open the account, once it’s open they want a selfie video, to verify your identity after already providing your passport and other information. Would not recommend any online only bank.",
+      "voteCount": 0,
+      "date": "2026-04-17T04:21:15",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "javsbdbdvfvhd",
+      "rating": 5,
+      "title": "One of the best banking apps",
+      "content": "This app contains so many simple but great features for saving and spending.  I now use this as my main banking app and I also use it when travelling around",
+      "voteCount": 0,
+      "date": "2026-04-17T04:16:46",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Zoki93",
+      "rating": 5,
+      "title": "Great",
+      "content": "Great",
+      "voteCount": 0,
+      "date": "2026-04-16T13:10:47",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "blaydezzz",
+      "rating": 5,
+      "title": "ease and cashbacks",
+      "content": "Easy to use and enjoying cashbacks",
+      "voteCount": 0,
+      "date": "2026-04-16T10:46:41",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Okezie85",
+      "rating": 5,
+      "title": "Excellent",
+      "content": "I wouldn’t have chosen any other than this bank.",
+      "voteCount": 0,
+      "date": "2026-04-16T08:26:39",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Bad dog 49",
+      "rating": 5,
+      "title": "Mr Darren Thrower",
+      "content": "Excellent bank account",
+      "voteCount": 0,
+      "date": "2026-04-15T18:11:36",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "sudokufriend111",
+      "rating": 4,
+      "title": "Post office",
+      "content": "Please can you let cash withdrawals from post office with Monzo card. No atm nearby",
+      "voteCount": 0,
+      "date": "2026-04-15T12:29:26",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "pampered gold",
+      "rating": 5,
+      "title": "Alice",
+      "content": "Impressed with banking with Monzo",
+      "voteCount": 0,
+      "date": "2026-04-15T11:35:47",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Suzysad",
+      "rating": 5,
+      "title": "Good",
+      "content": "Good",
+      "voteCount": 0,
+      "date": "2026-04-15T10:10:19",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "itz_Kh41id",
+      "rating": 5,
+      "title": "Great",
+      "content": "Great",
+      "voteCount": 0,
+      "date": "2026-04-15T08:51:58",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "yottatsa",
+      "rating": 1,
+      "title": "Dark patterns are no-go",
+      "content": "Update: it takes jumping over all the hoops to even try to report the issue, and even after a full working day I’m not sure they have correctly registered it.\n—\nCould you please avoid making unnecessary blinking elements like the Upgrade button that is blinking right each time one is opening the main screen when the refuced animation (including preference for cross-fade transition) settings are enabled. This is annoying and distracting.",
+      "voteCount": 0,
+      "date": "2026-04-15T06:01:44",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "hillymerry",
+      "rating": 5,
+      "title": "Review",
+      "content": "Easy to use",
+      "voteCount": 0,
+      "date": "2026-04-14T09:12:54",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "bcaandy",
+      "rating": 5,
+      "title": "Andy",
+      "content": "Fantastic",
+      "voteCount": 0,
+      "date": "2026-04-14T08:58:39",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Prince orya",
+      "rating": 5,
+      "title": "Monzo",
+      "content": "Excellent bank account",
+      "voteCount": 0,
+      "date": "2026-04-14T08:31:03",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Senseichamp",
+      "rating": 5,
+      "title": "Good",
+      "content": "Sick mate",
+      "voteCount": 0,
+      "date": "2026-04-14T08:09:56",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Ryanlstr",
+      "rating": 1,
+      "title": "Close accounts take your money",
+      "content": "Be aware they will close your account and take your money just Google it they been done got it before. It’s all out there on Google. Do not use this bank",
+      "voteCount": 0,
+      "date": "2026-04-14T05:40:46",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "188 Mike",
+      "rating": 5,
+      "title": "Hmrc tax return",
+      "content": "Let me have it a day early what a bank",
+      "voteCount": 0,
+      "date": "2026-04-13T08:50:16",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Hejekekdhbdn",
+      "rating": 1,
+      "title": "Can’t go back when I made a mistake",
+      "content": "Can’t go back",
+      "voteCount": 0,
+      "date": "2026-04-13T07:05:27",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "Dissmash",
+      "rating": 5,
+      "title": "Best bank!",
+      "content": "Much better than barclays",
+      "voteCount": 0,
+      "date": "2026-04-13T05:26:33",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "لڈگبچ",
+      "rating": 1,
+      "title": "Avoid Monzo at all costs .",
+      "content": "Completely unsafe. My money was taken, I provided full proof, and their response was: “We cannot reverse your money.”\nSame thing happened to my friend before—now I know it’s not a coincidence.\nYour money is not secure here, and if anything goes wrong, you’re on your own.\nClosing my account and telling everyone I know to do the same.",
+      "voteCount": 0,
+      "date": "2026-04-12T18:43:33",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "Jake p4508",
+      "rating": 1,
+      "title": "G",
+      "content": "This bank is terrible. They freeze your accounts without reason and left me without access to my money so I couldn’t even buy food. They do not care for your wellbeing",
+      "voteCount": 0,
+      "date": "2026-04-12T02:06:37",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "marcusjsmall",
+      "rating": 5,
+      "title": "Amazing Bank",
+      "content": "To be honest I was just moving money around on Monzo and I had the urge to leave a 5 Star review. (I never really review anything so feeling compelled to leave a review must mean I like it a lot). Amazing banking app, can’t fault anything about it and I have been using it for years. Highly recommend this app!",
+      "voteCount": 0,
+      "date": "2026-04-11T08:35:23",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "lozimeti",
+      "rating": 5,
+      "title": "Great app",
+      "content": "Love everything about Monzo their style of banking and the app",
+      "voteCount": 0,
+      "date": "2026-04-10T10:25:35",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Joepumping",
+      "rating": 5,
+      "title": "Thank You Monzo 💕",
+      "content": "Best banking experience so ever.",
+      "voteCount": 0,
+      "date": "2026-04-10T09:51:46",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Mud2234",
+      "rating": 5,
+      "title": "Perfect",
+      "content": "Perfect",
+      "voteCount": 0,
+      "date": "2026-04-10T09:02:38",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Hicksy9",
+      "rating": 5,
+      "title": "The best",
+      "content": "The best bank I’ve ever dealt with.",
+      "voteCount": 0,
+      "date": "2026-04-10T09:01:41",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "insta=xoxo.ana052add.me",
+      "rating": 5,
+      "title": "Perfect",
+      "content": "D best",
+      "voteCount": 0,
+      "date": "2026-04-10T08:33:21",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Roodfond",
+      "rating": 5,
+      "title": "My bank",
+      "content": "What a wonderful and extremely helpful bank\nTHANK YOU",
+      "voteCount": 0,
+      "date": "2026-04-10T08:17:38",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Darly69420",
+      "rating": 5,
+      "title": "Card",
+      "content": "Card",
+      "voteCount": 0,
+      "date": "2026-04-10T03:17:45",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Rosebrend",
+      "rating": 5,
+      "title": "Mr",
+      "content": "Awesome to see how the Monzo bank functioning, love the things that Monzo does",
+      "voteCount": 0,
+      "date": "2026-04-09T11:03:07",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Arthur mateo",
+      "rating": 5,
+      "title": "Very good",
+      "content": "⭐️⭐️⭐️⭐️⭐️",
+      "voteCount": 0,
+      "date": "2026-04-09T10:47:47",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Kimmymack1",
+      "rating": 5,
+      "title": "The best banking app!",
+      "content": "The best banking app!",
+      "voteCount": 0,
+      "date": "2026-04-09T09:26:34",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Holaemma2",
+      "rating": 5,
+      "title": "Enjoying the app",
+      "content": "Enjoying the app with its amazing features",
+      "voteCount": 0,
+      "date": "2026-04-09T09:18:43",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "KOCHUKANNANKARAYIL",
+      "rating": 5,
+      "title": "100% trusted  banking App",
+      "content": "Very helpful banking app",
+      "voteCount": 0,
+      "date": "2026-04-09T08:47:40",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Keiranj3",
+      "rating": 5,
+      "title": "Verry freindly",
+      "content": "Cant use any mormal bank online banking to hard got dislecsicia can use this 1 easy would recomend for stupid people like me",
+      "voteCount": 0,
+      "date": "2026-04-09T08:20:58",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Mikkell72",
+      "rating": 1,
+      "title": "Account closed and very poor customer service",
+      "content": "My account was closed and there was no reason provided even when I asked customer service furthermore it has taken weeks for me to receive my savings meaning i’ve had to take a cost of borrowing some money to fund payments coming at a cost to me.",
+      "voteCount": 0,
+      "date": "2026-04-09T03:36:16",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "Desertful",
+      "rating": 1,
+      "title": "Never transfer device",
+      "content": "Transferred devices recently and now won’t even send me a link to log in to my account and the customer support doesn’t even reply after I went with a custom query so assuming it’s a bot",
+      "voteCount": 0,
+      "date": "2026-04-08T13:45:03",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "Criola sabinha",
+      "rating": 5,
+      "title": "Best Bank",
+      "content": "Best bank .. very happy with My Monzo",
+      "voteCount": 0,
+      "date": "2026-04-08T08:36:25",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Baggibiff",
+      "rating": 5,
+      "title": "good features good customer service",
+      "content": "failure to Monzo has some good features like getting paid early and I would like to see more things about budgeting",
+      "voteCount": 0,
+      "date": "2026-04-07T12:55:48",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "FMad_",
+      "rating": 5,
+      "title": "Really Good!",
+      "content": "I’m 16 years old and using Monzo has really helped me manage my money and save money using the pots and save up for something I want! \n\nIt’s really easy to use and I can move money to pots so I don’t go into my savings! It’s great",
+      "voteCount": 0,
+      "date": "2026-04-07T08:13:57",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Stinting",
+      "rating": 3,
+      "title": "Down to 3 stars while responsiveness is slow",
+      "content": "I do like Monzo, but in recent weeks the app has become sluggish. I’m having to tap multiple times before I can access information on specific transactions or actions on a transaction. This makes using the app frustrating. Back to 5 stars when this annoying bug is fixed.",
+      "voteCount": 0,
+      "date": "2026-04-07T05:35:44",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "author": "SickWalrus",
+      "rating": 1,
+      "title": "making tax digital useless",
+      "content": "awful implementation of new software that every business must use now",
+      "voteCount": 0,
+      "date": "2026-04-06T23:47:19",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "Hate Scam Adverts",
+      "rating": 1,
+      "title": "Absolute Vile company! Constantly bombarding you with the same disgusting adverts multiple times",
+      "content": "These guys a so desperate! Bombarding you with the exact same adverts multiple times a day! Absolutely disgusting vile behaviour! I will never ever use your company ever!",
+      "voteCount": 0,
+      "date": "2026-04-04T05:28:57",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "Fazal526",
+      "rating": 1,
+      "title": "Thats WORST",
+      "content": "They don’t care me deaf and mental health! They ARE CLOSED MY ACCOUNT ON 25th May for no REASON I’m been loyal with them since 2018",
+      "voteCount": 0,
+      "date": "2026-04-03T12:16:24",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "shantelxena",
+      "rating": 5,
+      "title": "Mrs Mary",
+      "content": "Brillant bank App",
+      "voteCount": 0,
+      "date": "2026-04-02T08:57:55",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "UntamedDoughnut",
+      "rating": 3,
+      "title": "Why don’t you shout about new app features?",
+      "content": "A happy Monzo customer but get really frustrated at the lack of promotion from Monzo on new app features and improvements. \n\nI found the direct debit calendar in the app the other day, great feature but no promotion of this in the app version history on the App Store. \n\nThey say they will “shout” about new app features but don’t count on it!",
+      "voteCount": 0,
+      "date": "2026-04-02T04:54:21",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "author": "waliben",
+      "rating": 1,
+      "title": "Mr",
+      "content": "Not giving a current account without a reason for why not?",
+      "voteCount": 0,
+      "date": "2026-04-01T20:36:52",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "honey.payne",
+      "rating": 5,
+      "title": "Good",
+      "content": "Good",
+      "voteCount": 0,
+      "date": "2026-04-01T15:45:14",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Rice Design",
+      "rating": 5,
+      "title": "Never look back",
+      "content": "Monzo is by far the best app, for me, for family, for friends. Intuitive and effective transfers and connectivity with all of above. \n\nI have the business account too. Same applies. 👌",
+      "voteCount": 0,
+      "date": "2026-04-01T11:13:13",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "miss morry",
+      "rating": 5,
+      "title": "Brilliant banking app",
+      "content": "Absolutely love the app, it’s helpful & great for helping with my finances",
+      "voteCount": 0,
+      "date": "2026-04-01T10:36:41",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "chrissyBarker",
+      "rating": 5,
+      "title": "Chris Barker",
+      "content": "Magic",
+      "voteCount": 0,
+      "date": "2026-04-01T09:41:12",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "willgra985",
+      "rating": 1,
+      "title": "Unusually slow.",
+      "content": "I absolutely used to love the app, so useful for banking with multiple accounts, but now it seems to be unusably slow. Everything takes 10+ seconds to load and it makes it pretty much unusable. So frustrating.",
+      "voteCount": 0,
+      "date": "2026-04-01T02:25:32",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "soveryannoying",
+      "rating": 1,
+      "title": "Update",
+      "content": "Why block me from account so I can update? If it ain’t broke…",
+      "voteCount": 0,
+      "date": "2026-04-01T01:22:26",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "author": "Hannah xoxoxoxox",
+      "rating": 5,
+      "title": "I know",
+      "content": "What u did",
+      "voteCount": 0,
+      "date": "2026-03-31T21:58:30",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Lipetrosko",
+      "rating": 5,
+      "title": "Best bank ever!",
+      "content": "Best bank ever!",
+      "voteCount": 0,
+      "date": "2026-03-31T08:32:37",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "itsnessa009",
+      "rating": 5,
+      "title": "The perks plan is 100% worth it",
+      "content": "Being able to split my different spending categories into separate Apple wallet cards is such a game changer. Also the perks like rail card, free cinema tickets and weekly Greggs make this subscription a no brainer. I can’t believe I didn’t get monzo sooner",
+      "voteCount": 0,
+      "date": "2026-03-31T04:52:04",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "isiendjfb",
+      "rating": 5,
+      "title": "Goated",
+      "content": "Goated Bank ❤️",
+      "voteCount": 0,
+      "date": "2026-03-30T12:07:51",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Archiepoo6969",
+      "rating": 5,
+      "title": "Simply the best",
+      "content": "10/10 the bank that works for you",
+      "voteCount": 0,
+      "date": "2026-03-30T11:03:21",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Lolabelle87",
+      "rating": 5,
+      "title": "Fantastic",
+      "content": "Absolutely recommend Monzo as your bank so easy to use and such brilliant perks and tools to use on the app 10000%",
+      "voteCount": 0,
+      "date": "2026-03-30T10:02:47",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Iskqkfofkwbakdlwnsnnsn",
+      "rating": 5,
+      "title": "Best Bank & App",
+      "content": "Best banking and banking app. Helps me keep my finances organised and great support. Would recommend to friends and family.",
+      "voteCount": 0,
+      "date": "2026-03-30T09:48:03",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Zzesstastic",
+      "rating": 5,
+      "title": "Exceptional app",
+      "content": "Mondo set a bench mark as to what banking apps should look and work like. Keep up the good work.",
+      "voteCount": 0,
+      "date": "2026-03-30T09:39:48",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Joseph raj",
+      "rating": 5,
+      "title": "Best Banking App",
+      "content": "Love everything about Monzo",
+      "voteCount": 0,
+      "date": "2026-03-30T09:35:27",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "Patpat10483",
+      "rating": 5,
+      "title": "Great App",
+      "content": "Fantastic app. Super useful and it has amazing features. Better than any high street bank.",
+      "voteCount": 0,
+      "date": "2026-03-30T09:06:10",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "B19RBC",
+      "rating": 5,
+      "title": "Great",
+      "content": "Love monzo’s get paid early feature. Best bank I’ve banks with",
+      "voteCount": 0,
+      "date": "2026-03-30T08:57:11",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "author": "bhab1234",
+      "rating": 5,
+      "title": "love it",
+      "content": "its a great bank",
+      "voteCount": 0,
+      "date": "2026-03-30T08:38:32",
+      "sentiment": "POSITIVE"
+    }
+  ],
+  "totalReviews": 100,
+  "positive": 78,
+  "negative": 19,
+  "neutral": 3,
+  "insights": {
+    "summary": "Users frequently report issues related to account closures and blocking access to funds, poor customer support especially in fraud cases, and app performance problems including crashes and sluggishness.",
+    "topProblems": [
+      {
+        "count": 7,
+        "examples": [
+          "account was closed and blocked without reason",
+          "blocked payments causing late bills and charges",
+          "accounts frozen without reason leaving no access to money"
+        ],
+        "name": "Account closures and blocked access"
+      },
+      {
+        "count": 6,
+        "examples": [
+          "won't help with fraud or refund losses",
+          "customer service rude and unhelpful",
+          "support not responding to login or issue reports"
+        ],
+        "name": "Poor customer support and fraud handling"
+      },
+      {
+        "count": 5,
+        "examples": [
+          "app keeps freezing and crashing",
+          "sluggish app taking multiple taps to respond",
+          "everything takes 10+ seconds to load"
+        ],
+        "name": "App performance issues"
+      }
+    ]
+  }
+}
